@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeritaApp</string>
+    <string name="search">Cari</string>
+    <string name="home">Berita Utama</string>
+    <string name="titlehome">Berita Terbaru</string>
+</resources>
